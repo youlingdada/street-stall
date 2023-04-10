@@ -2,7 +2,7 @@ server:
   host: 0.0.0.0
   port: 8080
 database:
-  host: 43.136.170.73
+  host: localhost
   dbname: street-stall
   port: 3306
   username: street-stall
