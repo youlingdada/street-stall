@@ -10,7 +10,7 @@ database:
 email:
   host: smtp.163.com
   username: youlingdada@163.com
-  password: MDQVWHDMEHVTOHYS
+  password: ******
   port: 25
 redis:
   host: localhost
